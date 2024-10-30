@@ -36,7 +36,7 @@ header h1{
     font-weight: 600;
     cursor: pointer
 }
-header nav a{
+header nav {
     display: flex;
 }
 header nav a{
@@ -64,4 +64,9 @@ main .main-content{
 main .main-content h2{
     margin-bottom: 2%;
     font-size: 2.2em;
+}
+main .main-content .text p{
+    width: 75%;
+    font-size: 1.2em;
+    font-weight: 300;
 }
