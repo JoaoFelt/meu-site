@@ -81,3 +81,6 @@ main .techs .cards-container{
     display: flex;
     align-items: center;
 }
+main .techs .cards-container .card{
+    
+}
