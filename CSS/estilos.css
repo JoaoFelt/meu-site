@@ -60,6 +60,7 @@ main{
     align-items: center;
     justify-content: space-between;
 }
+/*MAIN CONTENT*/
 main .main-content{
     display:flex;
     flex-direction: column;
